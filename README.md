@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shelarsujit
-- 👀 I’m interested in AI/ML 
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Conversational AI
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on ML and AI projects
 - 📫 How to reach me ...
 
